@@ -55,6 +55,20 @@
         <img height="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub Logo">
     </picture>
   </a>
+
+  <a href="https://vercel.com/">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vercel-colored-dark.svg">
+        <img height="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vercel-colored.svg" alt="Vercel">
+    </picture>
+  </a>
+
+  <a href="https://supabase.com/">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/supabase.svg">
+        <img height="40" src="https://user-images.githubusercontent.com/2677334/117447182-29758a80-af3d-11eb-97bd-58723fee62ab.png" alt="Supabase">
+    </picture>
+  </a>
 </p>
 
 ---
