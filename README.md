@@ -94,9 +94,9 @@
 ## <picture><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGY0YmxybDJycTZtYjhwNjAzM2ZqYXVpbmh4NzEwZW82MGp6dXZrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wimE5t2Un91vYqek3k/giphy.gif?raw=true" width="50px"></picture> Conéctate conmigo
 
 <p align="center">
-  <a href="www.linkedin.com/in/oscarcode"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/tu-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.instagram.com/tu-instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/oscarcode"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:oscarwork77@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.facebook.com/tu-facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <!-- Agrega más redes si las tienes -->
 </p>
