@@ -26,49 +26,46 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="60px"></picture> Habilidades
 
-### Lenguajes de Programación y Herramientas
-
 <p>
-  <code><a href="https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></a></code>
-  <code><a href="https://www.java.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
-  <code><a href="https://www.php.net/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"></a></code>
-  <code><a href="https://www.w3.org/TR/sql/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"></a></code>
-  <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></a></code>
-  <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></a></code>
-  <code><a href="https://www.typescriptlang.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"></a></code>
-  <br>
-  <code><a href="https://reactjs.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"></a></code>
-  <code><a href="https://www.langchain.com/"><img height="40" src="https://avatars.githubusercontent.com/u/126783252?s=200&v=4" alt="LangChain"></a></code>
-  <code><a href="https://flutter.dev/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter"></a></code>
-  <code><a href="https://cloud.google.com/vertex-ai"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" alt="Vertex AI"></a></code>
-  <code><a href="https://laravel.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel"></a></code>
-  <a href="https://nextjs.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js"></a>
-  <code><a href="https://nodejs.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"></a></code>
-  <br>
-  <a href="https://www.oracle.com/database/">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Database">
-  </a>
-  <code><a href="https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></a></code>
-  <a href="https://github.com/">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg">
-        <img height="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub Logo">
-    </picture>
-  </a>
+  <p align="center">
+    <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+    <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+    <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+    <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+    <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" /></a>
+    <a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" /></a>
+    <a href="https://discord.gg/em88eG8VAU"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
+    <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
+    <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
+    <a href="https://github.com/OscarTired"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+    <a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a>
+    <a href="https://www.linkedin.com/in/oscarcode"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+    <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+    <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+    <a href="https://nodejs.org/es/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+    <a href="https://www.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" alt="npm" /></a>
+    <a href="https://www.adobe.com/pe/products/premiere.html"><img src="https://skillicons.dev/icons?i=pr" alt="Premiere Pro" /></a>
+    <a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r" alt="R" /></a>
+    <a href="https://es.react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+    <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>
+    <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+    <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
+    <a href="https://www.langchain.com/">
+      <img src="https://cdn.simpleicons.org/langchain/246161" height="48" alt="LangChain" />
+    </a>
+    <a href="https://www.langchain.com/langgraph">
+      <img src="https://cdn.simpleicons.org/langgraph/246161" height="48" alt="LangGraph" />
+    </a>
+    <a href="https://www.cpanel.net/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cpanel/cpanel-original.svg" height="48" alt="cPanel" />
+    </a>
+    
+  </p>
 
-  <a href="https://vercel.com/">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vercel-colored-dark.svg">
-        <img height="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vercel-colored.svg" alt="Vercel">
-    </picture>
-  </a>
-
-  <a href="https://supabase.com/">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/supabase.svg">
-        <img height="40" src="https://user-images.githubusercontent.com/2677334/117447182-29758a80-af3d-11eb-97bd-58723fee62ab.png" alt="Supabase">
-    </picture>
-  </a>
 </p>
 
 ---
