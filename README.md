@@ -15,12 +15,11 @@
 
 ¡Hola! Soy Oscar, un estudiante de **Ingeniería en Ciencia de Datos e Inteligencia Artificial** con experiencia práctica en el desarrollo de modelos RAG, automatizaciones con Python y desarrollo full stack. Soy una persona responsable, creativa y curiosa, con sólidas habilidades técnicas y una gran capacidad de aprendizaje autodidacta. Siempre estoy explorando nuevas tecnologías y aplicándolas en proyectos reales para resolver problemas complejos.
 
-- 🌱 Actualmente estoy aprendiendo: **IA Generativa y Cloud Computing avanzado**.
-- 👯 Busco colaborar en: **Proyectos open-source relacionados con IA y desarrollo web**.
+- 🌱 Actualmente estoy aprendiendo: Software Full-Stack con foco en **Desarrollo Backend Moderno y Aplicaciones de Inteligencia Artificial Generativa**.
+- 👯 Busco colaborar en: **Proyectos open-source relacionados con IA y desarrollo frontend o backend**.
 - 🤔 Puedo ayudarte con: **Automatizaciones en Python, modelos RAG o setups full stack**.
-- 💬 Pregúntame sobre: **Ciencia de Datos, Machine Learning o desarrollo backend**.
 - 📫 Cómo contactarme: [LinkedIn](www.linkedin.com/in/oscarcode) | [Email](mailto:oscarwork77@gmail.com)
-- ⚡ Fun fact: ¡Puedo codificar mientras escucho música de los 80s sin distraerme!
+- ⚡ Fun fact: ¡SODA ESTA DEVUELTA, ME VERAS RESUCITAR MAS REAL QUE NUNCA!
 
 ---
 
