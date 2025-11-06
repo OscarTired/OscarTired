@@ -13,13 +13,11 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mí
 
-¡Hola! Soy Oscar, un estudiante de **Ingeniería en Ciencia de Datos e Inteligencia Artificial** con experiencia práctica en el desarrollo de modelos RAG, automatizaciones con Python y desarrollo full stack. Soy una persona responsable, creativa y curiosa, con sólidas habilidades técnicas y una gran capacidad de aprendizaje autodidacta. Siempre estoy explorando nuevas tecnologías y aplicándolas en proyectos reales para resolver problemas complejos.
+Hi, soy Oscar, terminando la carrera de **Ing. de Ciencia de Datos e IA**, soy una persona muy curiosa lo cual me ha llevado a conocer y aplicar distintas tecnologias/metologias en mi dia dia y mundo laboral, con ganas de aprender cada vez mas y de tomar mucho cafe junto a mi playlist de +62hrs :D
 
-- 🌱 Actualmente estoy aprendiendo: Software Full-Stack con foco en **Desarrollo Backend Moderno y Aplicaciones de Inteligencia Artificial Generativa**.
-- 👯 Busco colaborar en: **Proyectos open-source relacionados con IA y desarrollo frontend o backend**.
-- 🤔 Puedo ayudarte con: **Automatizaciones en Python, modelos RAG o setups full stack**.
-- 📫 Cómo contactarme: [LinkedIn](www.linkedin.com/in/oscarcode) | [Email](mailto:oscarwork77@gmail.com)
-- ⚡ Fun fact: ¡SODA ESTA DEVUELTA, ME VERAS RESUCITAR MAS REAL QUE NUNCA!
+- 🌱 Aprendiendo de todo un poco, full stack por la curiosidad de como funciona cada cosa con la que me topo :p
+- 📫 Contactame: [LinkedIn](www.linkedin.com/in/oscarcode) | [oscarwork77@gmail.com](mailto:oscarwork77@gmail.com)
+- ⚡ ¡SODA ESTA DEVUELTA, ME VERAS RESUCITAR MAS REAL QUE NUNCA!
 
 ---
 
