@@ -71,7 +71,7 @@ Hi, soy Oscar, terminando la carrera de **Ing. de Ciencia de Datos e IA**, soy u
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OscarTired&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OscarTired&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app/?user=OscarTired&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
@@ -84,7 +84,7 @@ Hi, soy Oscar, terminando la carrera de **Ing. de Ciencia de Datos e IA**, soy u
 ## <picture><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZweXVjMDR1b3R5NmIyZXYwZGh2bHUycjk3dGN5bDd4NTZyYnFhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9t68gk79vXhgarGsXP/giphy.gif?raw=true" width="40px"></picture> Trofeos de GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OscarTired&theme=dracula&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=OscarTired&theme=dracula&no-frame=true&margin-w=15&margin-h=15&no-cache=true" alt="GitHub Trophies" />
 </p>
 
 ---
