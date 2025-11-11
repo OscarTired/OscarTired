@@ -16,7 +16,7 @@
 Hi, soy Oscar, terminando la carrera de **Ing. de Ciencia de Datos e IA**, soy una persona muy curiosa lo cual me ha llevado a conocer y aplicar distintas tecnologias/metologias en mi dia dia y mundo laboral, con ganas de aprender cada vez mas y de tomar mucho cafe junto a mi playlist de +62hrs :D
 
 - 🌱 Aprendiendo de todo un poco, full stack por la curiosidad de como funciona cada cosa con la que me topo :p
-- 📫 Contactame: [LinkedIn](www.linkedin.com/in/oscarcode) | [oscarwork77@gmail.com](mailto:oscarwork77@gmail.com)
+- 📫 Contactame: [LinkedIn](https://www.linkedin.com/in/oscarcode) | [oscarwork77@gmail.com](mailto:oscarwork77@gmail.com)
 - ⚡ ¡SODA ESTA DEVUELTA, ME VERAS RESUCITAR MAS REAL QUE NUNCA!
 
 ---
