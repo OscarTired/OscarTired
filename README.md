@@ -11,7 +11,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=OscarTired.OscarTired" alt="visitors"/>
 </p>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mí
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
 Hi, soy Oscar, terminando la carrera de **Ing. de Ciencia de Datos e IA**, soy una persona muy curiosa lo cual me ha llevado a conocer y aplicar distintas tecnologias/metologias en mi dia dia y mundo laboral, con ganas de aprender cada vez mas y de tomar mucho cafe junto a mi playlist de +62hrs :D
 
@@ -21,7 +21,7 @@ Hi, soy Oscar, terminando la carrera de **Ing. de Ciencia de Datos e IA**, soy u
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="60px"></picture> Habilidades
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="60px"></picture> Skills
 
 <p>
   <p align="center">
