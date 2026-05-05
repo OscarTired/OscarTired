@@ -19,13 +19,17 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
-I'm currently finishing my degree in **Data Science & AI Engineering**. I'm a naturally curious person, which pushes me to explore and apply different technologies and methodologies in both my daily life and my professional work. I'm always eager to learn more, usually fueled by a lot of coffee and my 62+ hour playlist. 
+I'm currently finishing my degree in **Data Science & AI Engineering**. I'm a naturally curious person, which pushes me to explore and apply different technologies and methodologies in both my daily life and my professional work. I'm always eager to learn more, usually fueled by a lot of coffee and my 80+ hour playlist. 
 
 - Learning a bit of everything. I dive into full-stack development simply out of curiosity to see how things work under the hood.
 - Reach out: [oscarwork77@gmail.com](mailto:oscarwork77@gmail.com)
 - "Music is love, music is life"
 
-
+<p align="center">
+  <a href="https://open.spotify.com/playlist/4JvtBb4Yb7ihi2CGAgDUeI" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-Listen_to_my_80%2B_hour_playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
+  </a>
+</p>
 <br>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="50px"></picture> Tech Stack
